@@ -1,4 +1,3 @@
-![Calculator App](https://img.shields.io/badge/license-MIT-blue)
 # Angular
 
 Below is the list of Angular JS and Angular Projects
