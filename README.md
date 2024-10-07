@@ -1,3 +1,5 @@
+<span style="color: red;">This text is red</span>
+
 # Angular
 
 Below is the list of Angular JS and Angular Projects
