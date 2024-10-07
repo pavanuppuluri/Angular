@@ -1,14 +1,12 @@
 # Angular
 
-Below is the list of Angular JS and Angular Projects
+Below is the list of Angular JS and Angular Projects and repo links
 
-![image](https://github.com/user-attachments/assets/7c4d0449-29fd-4f9f-ae3b-58b9a31eec4c)
+| ![Project](https://img.shields.io/badge/Project-blue.svg)      | ![Repo](https://img.shields.io/badge/Repo-blue.svg)         |
+|--------------|------------------|
+| ![ToDo App - Angular JS](https://img.shields.io/badge/ToDo%20App%20Angular%20JS-red.svg)        | https://github.com/pavanuppuluri/todo-app-angularjs           |
+| ![Calculator App](https://img.shields.io/badge/Calculator%20App%20Angular-red.svg)        |      https://github.com/pavanuppuluri/Angular-Calculator-App     |
 
-https://github.com/pavanuppuluri/Angular-Calculator-App
 
-![image](https://github.com/user-attachments/assets/7a48cc71-a896-44e3-9fb2-2e2710e2c883)
-
-https://github.com/pavanuppuluri/todo-app-angularjs
-
-**Happy Coding!!!**
+Happy Coding!!!
 
